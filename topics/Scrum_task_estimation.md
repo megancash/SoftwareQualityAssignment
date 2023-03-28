@@ -13,7 +13,7 @@ SCRUM task estimation of user stories is essentially rating the degree of diffic
 
 This technique is widely used in SCRUM task estimation. When using the Planning Poker Technique , each team member use numbered cards to determine story points to user stories and determine each work items degree of complexity.  They take heavily into account expert’s opinions and previous experience to determine each item’s final estimation. This technique results in efficient and reliable estimates.
 
-![Planning poker](planningpoker.jpg)
+![Planning poker](/topics/images/planningpoker.jpg)
 
 **Steps:**
 
@@ -27,7 +27,7 @@ This technique is widely used in SCRUM task estimation. When using the Planning 
  
 The Bucket System Estimation is used by dividing the ‘buckets’ based on their complexity. This technique allows the team to size many work items.
 
-![The Bucket System Estimation](bucketEstimation.jpg)
+![The Bucket System Estimation](/topics/images/bucketEstimation.jpg)
 
 **Steps:**
 1.  Choose a story item at random and place It in the ‘8’ bucket to be used as the first reference item.
@@ -39,7 +39,7 @@ The Bucket System Estimation is used by dividing the ‘buckets’ based on thei
  
 The T-Shirt Size Estimation is used by Scrum teams to estimate various work items in a project. Each item is estimated using t-shirt sizing’s such as XS, S, M, L, XL.  The sizes represent different complexities of user stories.
 
-![T-Shirt Size Estimation Technique](T-shirtSizingEstimation.jpg)
+![T-Shirt Size Estimation Technique](/topics/images/T-shirtSizingEstimation.jpg)
 
 **Steps:**
 1.  The team decides on what each t-shirt size represents.
@@ -55,7 +55,7 @@ _____________________________________________________________________
 **Scrum Task estimation tools**
  
 Jira Software is an agile project management tool that supports agile methodologies such as scrum. Users can estimate stories in their product backlog to allow you to predict how long it would take you to deliver certain deliverables.
-![Jira Software](Jira.jpg)
+![Jira Software](/topics/images/Jira.jpg)
 
 **Link:**
 
