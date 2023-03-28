@@ -52,7 +52,7 @@ The T-Shirt Size Estimation is used by Scrum teams to estimate various work item
 
 - [Scrum Task estimation Techniques](https://kanbanize.com/agile/project-management/estimation)
 _____________________________________________________________________
-**2. Scrum Task estimation tools**
+**Scrum Task estimation tools**
  
 Jira Software is an agile project management tool that supports agile methodologies such as scrum. Users can estimate stories in their product backlog to allow you to predict how long it would take you to deliver certain deliverables.
 ![Jira Software](Jira.jpg)
@@ -61,7 +61,7 @@ Jira Software is an agile project management tool that supports agile methodolog
 
 - [JIRA Software](https://www.atlassian.com/software/jira)
 
-## **Task estimation advantages and disadvantages**
+## **2. Task estimation advantages and disadvantages**
 
 ### **Advantages:**
 
@@ -84,8 +84,9 @@ Jira Software is an agile project management tool that supports agile methodolog
 - The project can fail if team members don’t communicate/ work well together.
 
 **Links:**
-•   [Task estimation pros and cons](https://maddevs.io/blog/task-estimation-in-hours-for-scrum-teams/)
-•   [Task estimation advantages and disadvantages](https://www.simplilearn.com/scrum-project-management-article)
+
+- [Task estimation pros and cons](https://maddevs.io/blog/task-estimation-in-hours-for-scrum-teams/)
+- [Task estimation advantages and disadvantages](https://www.simplilearn.com/scrum-project-management-article)
 
 
 
@@ -95,18 +96,33 @@ How to improve the consistency and quality of your task estimates:
 
 - Try to use different task estimation methods: 
   Its important to try multiple task estimation methods per each sprint to ensure more accuracy for the task estimates.
+
 - Ensure good communication and teamwork skills are present within the team:
+
+
   It is important to ensure that all the team members work well together and communicate effectively to get a realistic task estimation of the project. It is vital in determining the task estimations that all team members discuss their point of views and listen to one another to ensure accuracy. 
+
 - Break up large items into manageable tasks.
+
 - Iterate and improve continuously:
+
+
   During retrospectives, continuously analyse and assess the progress the team is making, and make adjustments if needed.
+
 - Ensure every team member gives an estimate:
+
+
   It is important to get each members point of view and this allows you to assess your resources within the team.
+
 - If you have multiple small tasks, group them together and then estimate.
+
 - No distractions during task estimation:
+
+
   Every team member must be completely focused on the tasks and the overall goal of the project to ensure realistic results for the Scrum.
 
 **Links:**
-•   [Scrum task estimation tips](https://statushero.com/blog/scrum-estimation-tips-for-improving-engineering-estimates/) 
-•   [Scrum task estimation Best Practices](https://www.linkedin.com/pulse/6-best-practices-estimating-agile-projects-story-points-mike-mcewen/)
+
+- [Scrum task estimation tips](https://statushero.com/blog/scrum-estimation-tips-for-improving-engineering-estimates/) 
+- [Scrum task estimation Best Practices](https://www.linkedin.com/pulse/6-best-practices-estimating-agile-projects-story-points-mike-mcewen/)
 
