@@ -17,6 +17,6 @@
 
 ## **Who will be working on each task:**
 
-• **Task estimation in Scrum:** Megan & Devano
-• **Code Reviews:** Devano & Rodney
-• **Error Logging:** Rodney & Megan
+- **Task estimation in Scrum:** Megan & Devano
+- **Code Reviews:** Devano & Rodney
+- **Error Logging:** Rodney & Megan
