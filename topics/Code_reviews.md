@@ -46,3 +46,41 @@ https://crocoblock.com/blog/best-code-review-tools/
 
 •   By examining these factors during a code review. The reviewer can make ensure the code is of high quality, maintainable, and meets the needs of the end-users and for future developers.
 https://google.github.io/eng-practices/review/
+
+Best Practices 
+•   Understand what to examine in the code review, the code added should perform a feature or part of a feature. 
+o   Identify the feature and then how possible mistakes can arise from this feature. In case of finding bugs or edge cases that break the program. 
+o   It is essential to have a process or steps to solve these issues.
+
+•   Secondly automate tests that is possible to be automated, this will be essential to save time for the reviewer and focus on other aspects of the review. 
+
+•   It's important to remember the significance of keeping code reviews short. 
+
+o   A suggested guideline for the review duration is between 30 and 60 minutes.
+
+o   While another suggestion is to review only 100 to 300 lines of code. 
+
+o   It is also important to provide constructive feedback rather than being overly harsh to ensure positivity and high morale.
+https://www.futuremind.com/insights/what-is-code-review-and-how-to-perform-one
+
+•   Types of Code Reviews 
+•   There are different ways to conduct a code review, including pair programming, over-the-shoulder review, and tool-assisted review. 
+•   Pair programming involves two developers working together on the same code in real-time. 
+o   This means one programmer writes code and another programmer reviews the code. 
+o   It is more suited for very complex systems that might need more than one person working on it at a time. 
+o   Disadvantages of this system include how inefficient this process is. 
+
+•   Over the shoulder review is quick and informal method. 
+o   This is where a developer shows their laptop or computer with their code written to another developer and they review it together.
+o   A drawback to this method would be the lack of documentation and this would in turn effect the quality of code reviews in the long run. 
+
+•   Tool-assisted review is the most effective method as it uses software-based code review tools to replace many functionalities including:
+
+o   In person meeting 
+o   Helps keep track of comments.
+o   Changes made in the code.
+o   Version control.
+o   Provide metrics for commits.
+
+https://swimm.io/learn/code-reviews/code-reviews-pros-and-cons-approaches-tools-and-tips/
+
