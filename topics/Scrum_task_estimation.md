@@ -1,17 +1,19 @@
 # **Task Estimation in SCRUM**
 ## **Introduction**
-In this handbook we will investigate Task Estimation in SCRUM. Scrum is an agile framework used in project management to help aid in accountability, teamwork, and iterative progress towards a well-defined goal. Overall, it helps contributors and teams deliver value incrementally in a collaborative way.
+In this handbook we will investigate Task Estimation in Scrum. Scrum is an agile framework used in project management to help aid in accountability, teamwork, and iterative progress towards a well-defined goal. Overall, it helps contributors and teams deliver value incrementally in a collaborative way.
 
 1.  Scrum task estimation methods
 2.  Task estimation advantages and disadvantages 
 3.  Tips and best practices for Scrum task estimation
 
-## **SCRUM Task estimation Methods**
+## **1. Scrum Task estimation Methods**
 SCRUM task estimation of user stories is essentially rating the degree of difficulty got each user story in the project. There are several techniques that can be used to assess the degree of difficulty. Such as the following:
 
 ### **Planning Poker Technique**
 
 This technique is widely used in SCRUM task estimation. When using the Planning Poker Technique , each team member use numbered cards to determine story points to user stories and determine each work items degree of complexity.  They take heavily into account expert’s opinions and previous experience to determine each item’s final estimation. This technique results in efficient and reliable estimates.
+
+![Planning poker](planningpoker.jpg)
 
 **Steps:**
 
@@ -25,6 +27,8 @@ This technique is widely used in SCRUM task estimation. When using the Planning 
  
 The Bucket System Estimation is used by dividing the ‘buckets’ based on their complexity. This technique allows the team to size many work items.
 
+![The Bucket System Estimation](bucketEstimation.jpg)
+
 **Steps:**
 1.  Choose a story item at random and place It in the ‘8’ bucket to be used as the first reference item.
 2.  Then choose another story item at random and compare it to the reference item. Discuss as a team where its relative position on the scale would be and then place in the appropriate bucket. Repeat this step for all the items.
@@ -35,6 +39,8 @@ The Bucket System Estimation is used by dividing the ‘buckets’ based on thei
  
 The T-Shirt Size Estimation is used by Scrum teams to estimate various work items in a project. Each item is estimated using t-shirt sizing’s such as XS, S, M, L, XL.  The sizes represent different complexities of user stories.
 
+![T-Shirt Size Estimation Technique](T-shirtSizingEstimation.jpg)
+
 **Steps:**
 1.  The team decides on what each t-shirt size represents.
 2.  Each developer assigns each story a t-shirt size.
@@ -43,13 +49,17 @@ The T-Shirt Size Estimation is used by Scrum teams to estimate various work item
 5.  A time estimation is then concluded due to each t-shirt size.
 
 **Link:**
--   [Scrum Task estimation Techniques](https://kanbanize.com/agile/project-management/estimation)
+
+- [Scrum Task estimation Techniques](https://kanbanize.com/agile/project-management/estimation)
 _____________________________________________________________________
-**SCRUM Task estimation tools**
+**2. Scrum Task estimation tools**
  
-Jira software is an agile project management tool that supports agile methodologies such as scrum. Users can estimate stories in their product backlog to allow you to predict how long it would take you to deliver certain deliverables.
+Jira Software is an agile project management tool that supports agile methodologies such as scrum. Users can estimate stories in their product backlog to allow you to predict how long it would take you to deliver certain deliverables.
+![Jira Software](Jira.jpg)
+
 **Link:**
--  [JIRA Software](https://www.atlassian.com/software/jira)
+
+- [JIRA Software](https://www.atlassian.com/software/jira)
 
 ## **Task estimation advantages and disadvantages**
 
@@ -74,12 +84,12 @@ Jira software is an agile project management tool that supports agile methodolog
 - The project can fail if team members don’t communicate/ work well together.
 
 **Links:**
-•   https://maddevs.io/blog/task-estimation-in-hours-for-scrum-teams/
-•   https://www.simplilearn.com/scrum-project-management-article
+•   [Task estimation pros and cons](https://maddevs.io/blog/task-estimation-in-hours-for-scrum-teams/)
+•   [Task estimation advantages and disadvantages](https://www.simplilearn.com/scrum-project-management-article)
 
 
 
-## **Tips and best practices for Scrum task estimation**
+## **3. Tips and best practices for Scrum task estimation**
 
 How to improve the consistency and quality of your task estimates:
 
@@ -97,6 +107,6 @@ How to improve the consistency and quality of your task estimates:
   Every team member must be completely focused on the tasks and the overall goal of the project to ensure realistic results for the Scrum.
 
 **Links:**
-•   https://statushero.com/blog/scrum-estimation-tips-for-improving-engineering-estimates/ 
-•   https://www.linkedin.com/pulse/6-best-practices-estimating-agile-projects-story-points-mike-mcewen/ 
+•   [Scrum task estimation tips](https://statushero.com/blog/scrum-estimation-tips-for-improving-engineering-estimates/) 
+•   [Scrum task estimation Best Practices](https://www.linkedin.com/pulse/6-best-practices-estimating-agile-projects-story-points-mike-mcewen/)
 
