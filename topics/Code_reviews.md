@@ -1,6 +1,6 @@
 # **Code Reviews**
 
-## What are code reviews?
+## What are code reviews
 - Code reviews play an important part in making sure high quality of code for the application. Other developers assess the code and functions written by a software developer during these reviews.
 
 - These reviews make sure to identify bugs, improve the code quality, improve security, ensure efficiency, and facilitate learning for new developers working with the code. This is an essential part in the software development process. Code reviews are conducted once a developer completes programming to receive a second opinion on the solution and implementation. 
@@ -29,9 +29,10 @@
     -   Downsides of the product is the complexity of learning this tool for effective use. 
 
 - A final example would be Gerrit. 
-
     -   Which is a free tool that merges the functions of a review tool and bug tracking.
     -   An issue with this tool would be not having clear documentation to be able to learn this technology effectively.
+
+**Link:**
 
 - [Tools for Code Review](https://crocoblock.com/blog/best-code-review-tools/)
 
@@ -54,6 +55,8 @@
 
 - By examining these factors during a code review. The reviewer can make ensure the code is of high quality, maintainable, and meets the needs of the end-users and for future developers.
 
+**Link:**
+
 - [Process for Code Review](https://google.github.io/eng-practices/review/)
 
 
@@ -70,6 +73,8 @@
     -   While another suggestion is to review only 100 to 300 lines of code. 
 
 - It is also important to provide constructive feedback rather than being overly harsh to ensure positivity and high morale.
+
+**Link:**
 
 - [Best Practices](https://www.futuremind.com/insights/what-is-code-review-and-how-to-perform-one)
 
@@ -93,6 +98,8 @@
     -  Changes made in the code.
     -  Version control.
     -  Provide metrics for commits.
+
+**Link:**
 
 - [Types of Code Reviews](https://swimm.io/learn/code-reviews/code-reviews-pros-and-cons-approaches-tools-and-tips/)
 
