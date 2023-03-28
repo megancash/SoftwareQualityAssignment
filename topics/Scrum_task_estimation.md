@@ -62,3 +62,36 @@ o   The more you  monitor your progress towards a goal, this increases motivatio
 •   Allows you to validate a user story: 
 o   Which works well for fast-moving development projects as it allows you to evaluate how  much work needs to be done in each user story and you can decide whether or not it can be delivered in a single sprint.
 •   Allows the team to review the sprint and create conclusions.
+
+
+**Disadvantages:**
+•   A team member may struggle to carry out required work for their tasks within the estimated time.
+•   A team member may lack task estimation skills.
+•   The project can fail if team members don’t communicate/ work well together.
+Links: 
+•   https://maddevs.io/blog/task-estimation-in-hours-for-scrum-teams/
+•   https://www.simplilearn.com/scrum-project-management-article
+
+
+
+## **Tips and best practices for Scrum task estimation**
+
+How to improve the consistency and quality of your task estimates:
+
+•   Try to use different task estimation methods: 
+o   Its important to try multiple task estimation methods per each sprint to ensure more accuracy for the task estimates.
+•   Ensure good communication and teamwork skills are present within the team:
+o   It is important to ensure that all the team members work well together and communicate effectively to get a realistic task estimation of the project. It is vital in determining the task estimations that all team members discuss their point of views and listen to one another to ensure accuracy. 
+•   Break up large items into manageable tasks.
+•   Iterate and improve continuously:
+o   During retrospectives, continuously analyse and assess the progress the team is making, and make adjustments if needed.
+•   Ensure every team member gives an estimate:
+o   It is important to get each members point of view and this allows you to assess your resources within the team.
+•   If you have multiple small tasks, group them together and then estimate.
+•   No distractions during task estimation:
+o   Every team member must be completely focused on the tasks and the overall goal of the project to ensure realistic results for the Scrum.
+
+    Links:
+•   https://statushero.com/blog/scrum-estimation-tips-for-improving-engineering-estimates/ 
+•   https://www.linkedin.com/pulse/6-best-practices-estimating-agile-projects-story-points-mike-mcewen/ 
+
